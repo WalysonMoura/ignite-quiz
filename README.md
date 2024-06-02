@@ -80,6 +80,6 @@ $ npm run start
 
 ___
 
-Made with ❤️ by André Viapiana 👋🏽 [Get in Touch!](https://www.linkedin.com/in/andreviapiana/)
+Made with ❤️ by Walyson Moura 👋🏽 [Get in Touch!](https://br.linkedin.com/in/walyson-moura-302562218)
 
 ---
